@@ -1,0 +1,25 @@
+{
+  "name": "@ling-wu-web/monorepo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Lingwu is a social knowledge sharing platform where users can post questions, share experiences, and write articles. We value content quality and professionalism, and provide special features for recording and managing user's learning and communication processes.",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calandnong/ling-wu-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calandnong/ling-wu-web/issues"
+  },
+  "homepage": "https://github.com/calandnong/ling-wu-web#readme",
+  "devDependencies": {
+    "@fastcoder/eslint-config-ts": "^1.0.6",
+    "eslint": "^8.39.0",
+    "typescript": "^5.0.4"
+  }
+}
